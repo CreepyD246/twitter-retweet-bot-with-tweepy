@@ -13,4 +13,5 @@ Tweepy Setup Tutorial - https://youtu.be/BdmUhQnPToM
 If you want to learn more about the Twitter API and creating Twitter bots with Tweepy you can check below documentations
 
 Tweepy Documentation - https://docs.tweepy.org/en/stable/
+
 Twitter API Documentation - https://developer.twitter.com/en/docs/twitter-api
