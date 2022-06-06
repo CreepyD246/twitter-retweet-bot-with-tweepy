@@ -1,4 +1,4 @@
-# twitter-retweet-bot-with-tweepy
+# Twitter-Retweet-Bot-with-Tweepy
 
 This is a Twitter Retweet bot that was made using Tweepy and Python. There are important concepts to know about, which are explained in the video tutorial that was made with this repository.
 
